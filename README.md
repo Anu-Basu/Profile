@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.pfps.gg/banners/1648-goku-aesthetic.gif" alt="animated" style="width: 1000px;"/>
+</p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Android MVVM<br>👯 I’m looking to collaborate on DevOps with Deep Learning<br>🤝 I’m looking for help with my sleep cycle <br>🌱 I’m currently learning Android<br>💬 Ask me about everything in Machine Learning<br>⚡ Fun fact I like to sleep and code
