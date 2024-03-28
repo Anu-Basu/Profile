@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.celestial_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anubrato-basu-35208a270/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mr.celestial_04) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,kotlin,androidstudio,js,html,css,figma,github,codepen,gradle,matlab,octave,linux,ktor,maven,mysql,npm,opencv,pytorch,sklearn,tensorflow,ubuntu,vscode,idea,powwershell)](https://skillicons.dev)
