@@ -46,7 +46,9 @@
 
 ### 😂 Random Dev Meme
 
+<div align = "center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrCelestial&icon=0&color=4)](https://visitcount.itsvg.in)
