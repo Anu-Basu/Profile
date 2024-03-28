@@ -11,7 +11,10 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mr.celestial_04) 
 
 # 💻 Tech Stack:
+<div align = "center">
+  
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,kotlin,androidstudio,js,html,css,figma,github,codepen,gradle,matlab,octave,linux,ktor,maven,mysql,npm,opencv,pytorch,sklearn,tensorflow,ubuntu,vscode,idea,powwershell)](https://skillicons.dev)
+</div>
 
 # 📊 GitHub Stats:
 <div align = "center">
@@ -21,9 +24,12 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=MrCelestial&theme=dark&hide_border=false)
   
 </div>
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+<div align = "center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=MrCelestial&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ## 🐍 My Contributions
 
