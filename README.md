@@ -8,7 +8,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mr.celestial_04) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mr.celestial_04) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anubrato-basu/) 
+
 
 # 💻 Tech Stack:
 <div align = "center">
