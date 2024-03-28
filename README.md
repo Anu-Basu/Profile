@@ -12,24 +12,35 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,kotlin,androidstudio,js,html,css,figma,github,codepen,gradle,matlab,octave,linux,ktor,maven,mysql,npm,opencv,pytorch,sklearn,tensorflow,ubuntu,vscode,idea,powwershell)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrCelestial&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrCelestial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCelestial&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+<div align = "center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=MrCelestial&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCelestial&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MrCelestial&theme=dark&hide_border=false)
+  
+</div>
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=MrCelestial&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🐍 My Contributions
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrCelestial&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<div align = "center">
+  <img alt = "snake eating the contributions" src="https://github.com/MrCelestial/MrCelestial/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>  
+
+### ✍️ Random Dev Quote
+
+<div align = "center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrCelestial&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
