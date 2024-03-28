@@ -35,7 +35,8 @@
 ## 🐍 My Contributions
 
 <div align = "center">
-  <img alt = "snake eating the contributions" src="https://github.com/MrCelestial/MrCelestial/blob/output/github-contribution-grid-snake-dark.svg"/>
+  
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrCelestial&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>  
 
 ### ✍️ Random Dev Quote
