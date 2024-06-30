@@ -32,7 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MrCelestial&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-## 🐍 My Contributions
+## 📈 My Contributions
 
 <div align = "center">
   
